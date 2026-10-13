@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-950 text-slate-100 antialiased font-sans select-none;
+  }
+}
+
+.search-snippet b {
+  color: #34d399;
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-color: rgba(52, 211, 153, 0.4);
+}

@@ -1,0 +1,3 @@
+%PDF-1.4
+% This is an intentionally corrupt PDF fixture to test error resilience.
+Corrupted content without valid xref table, missing trailer, truncated streams.

@@ -1,0 +1,4 @@
+Project notes:
+- Local offline file discovery
+- Metadata collection only in Phase 3
+- Boundary enforcement tested

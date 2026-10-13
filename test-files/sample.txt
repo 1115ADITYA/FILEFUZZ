@@ -1,0 +1,2 @@
+This is a synthetic test document for Offline File Finder development testing.
+Phase 3 file scanner test fixture.
